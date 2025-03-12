@@ -22,7 +22,7 @@
 | Archivo      |    Linea     |    Recomendacion / Problema |
 |--------------|--------------|------------------|
 | [PooStudent](https://github.com/MikaOT/progra2-22-23/blob/c83a1d534636b18a3cf703f5169a2c1236e6d61a/ejercicios/entregas/cayetanoCastillo/EX001PooStudent/Main.java) | [Ver](https://github.com/MikaOT/progra2-22-23/blame/c83a1d534636b18a3cf703f5169a2c1236e6d61a/ejercicios/entregas/cayetanoCastillo/EX001PooStudent/Main.java#L8) | Rediseño de codigo en el main, proponer solo una solucion si es que funciona, no rediseñar en exceso |
-| []() | [Ver]() | |
+
 
 ## YAGNI 
 | Archivo      |    Linea     |    Recomendacion / Problema |
